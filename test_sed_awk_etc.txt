@@ -1,0 +1,9 @@
+1 head line LINE -- end
+2 second line1 line2 line3 -- end
+3 start 12345 to test range
+4  of text to replace using {}
+5  until the sring END
+6 Difficult 'IN' and 'OUT' quotes
+7 and "strings within double quotes" at 
+8 different lines "another"
+9 end line

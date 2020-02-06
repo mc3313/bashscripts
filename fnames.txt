@@ -1,0 +1,17 @@
+list:
+Q1_14An2_45deg_r81mm
+Q1_14An2_225deg_r81mm
+Q1_35An2_45deg_r81mm
+Q1_35An2_225deg_r81mm
+Q1_50An2_45deg_r81mm
+Q1_50An2_225deg_r81mm
+Q1_70An2_45deg_r81mm
+Q1_70An2_225deg_r81mm
+Q3_14An2_45deg_r81mm
+Q3_14An2_225deg_r81mm
+Q3_35An2_45deg_r81mm
+Q3_35An2_225deg_r81mm
+Q3_50An2_45deg_r81mm
+Q3_50An2_225deg_r81mm
+Q3_70An2_45deg_r81mm
+Q3_70An2_225deg_r81mm

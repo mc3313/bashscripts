@@ -1,0 +1,3 @@
+clear -all
+attach -file run5953/run5953-4096.evt
+start
